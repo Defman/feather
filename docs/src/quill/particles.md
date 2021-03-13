@@ -20,7 +20,7 @@ let particle = Particle {
     count: 1,
 }
 
-// Spawn the particle in the worl
+// Spawn the particle in the world
 game.spawn_particle(position, particle);
 ```
 
